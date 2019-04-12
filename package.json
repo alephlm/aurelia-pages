@@ -1,0 +1,24 @@
+{
+  "name": "aurelia-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app~d0ae3f07.a8ae9ad4b6498aaa842f.chunk.js",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alephlm/aurelia-pages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alephlm/aurelia-pages/issues"
+  },
+  "homepage": "https://github.com/alephlm/aurelia-pages#readme"
+}
